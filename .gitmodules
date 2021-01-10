@@ -1,0 +1,6 @@
+[submodule "libs/knowdy"]
+	path = libs/knowdy
+	url = https://github.com/globbie/knowdy.git
+[submodule "libs/googletest"]
+	path = libs/googletest
+	url = https://github.com/google/googletest.git
